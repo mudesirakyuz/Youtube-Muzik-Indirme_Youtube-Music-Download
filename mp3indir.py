@@ -1,7 +1,7 @@
 from pytube import YouTube
 import os
 
-link = "https://www.youtube.com/watch?v=UYkJhjlLdwY"
+link = "Youtube müzik linkini buraya kopyala..."
 os.mkdir("İndirilenler")
 print("İndirilenler klasörü oluşturuldu...")
 print("İndirme başlatılıyor...")
